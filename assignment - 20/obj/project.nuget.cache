@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "8q/CJabliTbYAit228tC9QmfSvYaqnfeGpUCFhRCXgsdIfohLav2dC4zYf6sqQpv/W1xepFtkVQv5+Fma9qLNg==",
+  "success": true,
+  "projectFilePath": "C:\\CS 190 - coding folding\\assignment - 20\\assignment - 20\\assignment - 20.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\laura\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\laura\\.nuget\\packages\\npgsql\\7.0.2\\npgsql.7.0.2.nupkg.sha512",
+    "C:\\Users\\laura\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
